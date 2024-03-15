@@ -1,0 +1,11 @@
+.midias{
+    width: auto;
+    height: auto;
+    overflow: scroll;
+}
+.midias .videos{
+    width: 900%;
+}
+.midias .videos iframe{
+    width: 11.08%;
+}
